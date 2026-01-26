@@ -31,11 +31,7 @@ Acredito que tecnologia bem feita resolve problemas reais — e é nisso que foc
 ## 🎥 Conteúdo, Lives e Comunidade
 
 Produzo conteúdo sobre:
-- programação
-- sistemas back-end
-- bots e automação
-- estudos em tecnologia
-- projetos reais em produção
+- coisas aleatorias
 
 Além de lives ocasionais mostrando **processos reais de desenvolvimento**.
 
