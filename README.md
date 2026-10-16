@@ -16,6 +16,18 @@ Acredito que tecnologia bem feita resolve problemas reais — e é nisso que foc
 
 ---
 
+## 🎮 Projeto em destaque: RE Hub
+
+[![ResidentEvilLauncher](https://img.shields.io/badge/ResidentEvilLauncher-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DevFoxyApollyon/ResidentEvilLauncher)
+
+Todos os Resident Evil em um lugar só, no estilo da tela inicial do PS5, para Windows:
+- linha do tempo em ordem da história, spin-offs, betas, filmes, HQs e livros
+- jogos da Steam com capas, logos, troféus, DLCs e trailers
+- clássicos por emulador, decomps e recomps
+- mods pelo Fluffy Mod Manager
+
+---
+
 ## 💼 Contato Profissional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-queiroz-nogueira-10a182298/)
