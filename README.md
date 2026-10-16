@@ -1,40 +1,18 @@
 ## 👋 Olá! Eu sou João Vitor (FoxyApollyon) 🦊
 
-Sou desenvolvedor de **back-end** (Node.js + MongoDB) e, ultimamente, tenho mergulhado de cabeça em
-**engenharia reversa, decompilação e ports de jogos clássicos** — principalmente **Resident Evil**. 🧟
+Sou desenvolvedor focado em **sistemas back-end**, **automação**, **APIs**  
+e **integrações entre serviços**, utilizando **Node.js** e **MongoDB**.
 
-Acredito que tecnologia bem feita resolve problemas reais — e preserva os jogos que a gente ama. 🚀
+Tenho experiência criando **sistemas completos em produção**, incluindo:
+- gerenciamento de dados
+- painéis administrativos
+- logs e monitoramento
+- controle de permissões
+- automações e tarefas agendadas
 
----
+Também desenvolvo bots e integrações para Discord **como parte de ecossistemas maiores**, não como limite técnico.
 
-## 🔥 No que estou trabalhando agora
-
-### 🧟 Resident Evil Code: Veronica X — port nativo para PC
-[![recvx-enhanced-port](https://img.shields.io/badge/recvx--enhanced--port-C-555555?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DevFoxyApollyon/recvx-enhanced-port)
-[![recvx-decomp](https://img.shields.io/badge/recvx--decomp-PS2%20MIPS-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://github.com/DevFoxyApollyon/recvx-decomp)
-
-Port/recompilação de *Code: Veronica X* (PS2, SLUS-20184) para Windows e Linux, construído sobre a
-decompilação da comunidade ([AshfordFamily/recvx-decomp](https://github.com/AshfordFamily/recvx-decomp)).
-O código original do jogo é compilado para PC e o hardware do PS2 (GS, VU, DMA, som, disco, memory card)
-é emulado nas bordas.
-
-- renderização aprimorada: widescreen, resolução interna maior, frames intermediários
-- **co-op online para 2 jogadores**
-- câmera em terceira pessoa
-- nenhum dado do jogo incluso — usa a sua própria cópia
-
-### 🎮 RE Hub — Resident Evil Launcher
-[![ResidentEvilLauncher](https://img.shields.io/badge/ResidentEvilLauncher-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DevFoxyApollyon/ResidentEvilLauncher)
-
-Todos os Resident Evil em um lugar só, no estilo da tela inicial do PS5 (Windows):
-linha do tempo da história, spin-offs, betas, filmes e HQs, jogos da Steam com capas, troféus e trailers,
-clássicos por emulador/decomps/recomps e mods pelo Fluffy Mod Manager.
-
-### 🤖 ALTHEA — bot de denúncias para Discord
-[![althea-denuncia-bot](https://img.shields.io/badge/althea--denuncia--bot-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/DevFoxyApollyon/althea-denuncia-bot)
-
-Gerenciamento de denúncias, moderação e controle de staff, com painéis interativos, logs centralizados,
-ranking de staff e configuração por servidor. Em produção.
+Acredito que tecnologia bem feita resolve problemas reais — e é nisso que foco meus projetos. 🚀
 
 ---
 
@@ -52,8 +30,10 @@ ranking de staff e configuração por servidor. Em produção.
 
 ## 🎥 Conteúdo, Lives e Comunidade
 
-Produzo conteúdo sobre jogos, Resident Evil e bastidores dos meus projetos, além de lives ocasionais
-mostrando **processos reais de desenvolvimento**.
+Produzo conteúdo sobre:
+- coisas aleatorias
+
+Além de lives ocasionais mostrando **processos reais de desenvolvimento**.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FoxyApollyon)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/foxyapollyon)
@@ -70,39 +50,36 @@ mostrando **processos reais de desenvolvimento**.
 
 ## 🧠 Áreas de Atuação
 
-- Engenharia reversa e decompilação (PS2 / MIPS)
-- Ports nativos de jogos para PC (C, renderização, input, áudio)
-- Aplicativos desktop em Python
-- Back-end com Node.js e APIs REST
+- Back-end com Node.js
+- APIs REST
+- Sistemas de autenticação e permissões
 - Banco de dados (MongoDB)
-- Automação, jobs agendados, logs e monitoramento
-- Bots e sistemas para Discord
+- Automação de processos
+- Jobs e tarefas agendadas
+- Logs e monitoramento
+- Integrações entre plataformas
+- Bots e sistemas para Discord (quando aplicável)
 
 ---
 
 ## 🛠️ Tecnologias
 
 <div style="display: inline_block"><br/>
-  <img align="center" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/SDL-1A1A1A?style=for-the-badge"/>
-  <img align="center" src="https://img.shields.io/badge/GCC%20%2F%20MSYS2-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/PS2%20%2F%20MIPS-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+  <img align="center" src="https://img.shields.io/badge/Automation-222222?style=for-the-badge"/>
 </div>
 
 ---
 
-## 🚀 Próximos passos
+## 🚀 Em Evolução Contínua
 
-- terminar o renderizador GS/VU1 do port de Code Veronica
-- levar o RE Hub para outras franquias (ex.: Silent Hill)
-- mais vídeos e lives mostrando o desenvolvimento
+Atualmente estou expandindo meus projetos para:
+- sistemas independentes de plataforma
+- serviços web
+- dashboards administrativos
+- soluções que vão além do Discord
 
 Sempre aprendendo, sempre evoluindo. 💡
-
----
-
-<sub>Resident Evil é marca da Capcom. Meus projetos de RE são de fã, sem ligação com a Capcom.</sub>
